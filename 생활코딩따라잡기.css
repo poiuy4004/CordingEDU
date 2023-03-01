@@ -29,7 +29,7 @@ input{
     grid-template-columns: 200px 1fr;
 }
 
-@media(max-width:850px){
+@media(max-width:45px){
     #그리드{
         display:block;
     }
